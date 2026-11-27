@@ -43,14 +43,14 @@ function Experience() {
       <div className="section-container">
 
         <div className="section-label">
-          <span>04 / MY JOURNEY</span>
+          <span>04 / EXPERIENCE</span>
           <div />
         </div>
 
         <div className="experience-heading">
           <p className="section-eyebrow">LEARNING. BUILDING. EVOLVING.</p>
           <h2 className="section-title">
-            The journey behind
+            My experience as
             <br />
             <span>the developer.</span>
           </h2>
